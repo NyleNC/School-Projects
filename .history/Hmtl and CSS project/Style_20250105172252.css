@@ -357,7 +357,7 @@ section {
     
 }
 
-@media only screen and (min-width: 1920px){
+@media only screen and (min-width: 1080px){
     body{
         margin: 0 auto;
         font-size: 2em;
@@ -373,7 +373,7 @@ section {
          gap: 1em;
          display: grid;
          grid-template-columns:   1fr 1fr 1fr 1fr;
-         width: 85%;
+         width: 95%;
          height: auto;
          text-align: center;
          padding-right: 1em;

@@ -118,7 +118,7 @@ legend {
    padding-left:1em;
 }
 .logo{
-    margin: 0 auto;
+    margin: 1em;
    display: flex;
    
 }
@@ -352,7 +352,8 @@ section {
     .logo img{
         width: 25%;
         height: auto;
-    
+        margin-bottom: 1em;
+        margin-top: 1em;
     }
     
 }
@@ -373,7 +374,7 @@ section {
          gap: 1em;
          display: grid;
          grid-template-columns:   1fr 1fr 1fr 1fr;
-         width: 85%;
+         width: 95%;
          height: auto;
          text-align: center;
          padding-right: 1em;

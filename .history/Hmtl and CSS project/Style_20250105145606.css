@@ -43,7 +43,6 @@ img {
    float: right;
    padding: 1.5em;
    margin: 0 auto;
-   cursor: pointer;
 }
 .main-nav ul{
     background: #262032;
@@ -54,7 +53,6 @@ img {
     height: auto;
     margin: 0 auto;
     transition: all 0.3s ease-in-out;
-
 }
 
 .main-nav ul.show {
@@ -66,7 +64,6 @@ img {
 }
 .main-nav a:hover{
      background-color: #4cc9f0
-     
 }
 
 .main-nav i.hidden {
@@ -118,7 +115,7 @@ legend {
    padding-left:1em;
 }
 .logo{
-    margin: 0 auto;
+    margin: 1em;
    display: flex;
    
 }
@@ -126,11 +123,7 @@ legend {
     width: 50%;
     height: auto;
 }
-.logo a{
-    text-decoration: none; 
-    display: flex;
-    color: inherit;
-}
+
 .about-bkgd{
     background-image:url(Images/aboutbackground.jpg);
     background-position: center;
@@ -185,7 +178,7 @@ legend {
     border-radius:3px;
 }
 .header-con{
-    width: 85%;
+    width: 95%;
     height: auto;
     margin: 0 auto;
 }
@@ -352,7 +345,8 @@ section {
     .logo img{
         width: 25%;
         height: auto;
-    
+        margin-bottom: 1em;
+        margin-top: 1em;
     }
     
 }
@@ -373,7 +367,7 @@ section {
          gap: 1em;
          display: grid;
          grid-template-columns:   1fr 1fr 1fr 1fr;
-         width: 85%;
+         width: 95%;
          height: auto;
          text-align: center;
          padding-right: 1em;
