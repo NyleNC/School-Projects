@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="Payroll.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:employees="using:Employees"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ListView x:ConnectionId='2' x:Name="empList" Margin="10,0,1022,673">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock>
+                        <Run Text="{Binding First}" />
+                        <Run Text="" />
+                        <Run Text="{Binding Last}" />
+                        </TextBlock>
+                    </StackPanel>
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ComboBox x:ConnectionId='3' x:Name="empType" Margin="845,208,0,0" Width="312"                                                         >
+            <ComboBoxItem Content="All Employees" IsSelected="True"/>
+            <ComboBoxItem Content="Salary"/>
+            <ComboBoxItem Content="Hourly"/>
+            <ComboBoxItem Content="SalesPerson"/>
+        </ComboBox>
+        <TextBox x:ConnectionId='4' x:Name="txtEmp" HorizontalAlignment="Left" Margin="845,283,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="312" Height="86" PlaceholderText="Enter the last Name or Sin number and hit Enter"                      />
+        <DatePicker x:ConnectionId='5' x:Name="StartDate" Margin="951,123,0,0" VerticalAlignment="Top" Height="41" RenderTransformOrigin="0.486,1.273" Width="341"                                            />
+        <TextBlock HorizontalAlignment="Left" Margin="951,69,0,0" TextWrapping="Wrap" Text="Start Date:" VerticalAlignment="Top" Width="341" Height="36" FontSize="24"/>
+    </Grid>
+</Page>
+

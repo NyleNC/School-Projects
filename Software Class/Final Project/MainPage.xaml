@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Final_Project.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Final_Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" RequestedTheme="Light" Opacity="0.76">
+    <Page.Background>
+        <ImageBrush ImageSource="/Assets/Header-picture.jpg"/>
+    </Page.Background>
+
+    <Grid>
+        <NavigationView x:Name="navMain" ItemInvoked="navMain_ItemInvoked" PaneDisplayMode="Auto">
+            <NavigationView.Background>
+                <ImageBrush/>
+            </NavigationView.Background>
+            <NavigationView.MenuItems>
+                <NavigationViewItem Icon="Home" Tag="Home">Home</NavigationViewItem>
+                <NavigationViewItem Icon="Account" Tag="Sign Up">Sign Up</NavigationViewItem>
+                <NavigationViewItem Icon="Admin" Tag="Club Leader">Club Leader Information</NavigationViewItem>
+            </NavigationView.MenuItems>
+            <Frame x:Name="ContentFrame"></Frame>
+        </NavigationView>
+    </Grid>
+</Page>

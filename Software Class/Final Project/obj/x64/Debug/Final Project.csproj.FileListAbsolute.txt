@@ -1,0 +1,210 @@
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\App.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Home.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Final Project.xr.xml
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Final Project.exe
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\resources.pri
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\AppxManifest.xml
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Core\Final Project.exe
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Final Project.build.appxrecipe
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\System.Runtime.dll
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\App.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\App.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ClubLeader.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ClubLeader.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Home.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Home.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\MainPage.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\SignUp.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\SignUp.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\App.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ClubLeader.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Home.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\MainPage.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\SignUp.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\App.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Home.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Final Project.csproj.CopyComplete
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Final Project.exe
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\priconfig.xml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\resources.resfiles
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\pri.resfiles
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\qualifiers.txt
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194604980000000.json
+C:\Users\nyleb\Downloads\school\Software\Final Project\bin\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ContactVerify.g.i.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ContactVerify.g.cs
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ContactVerify.xaml
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Downloads\school\Software\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316550480000000.json
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\App.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Home.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Final Project.xr.xml
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Final Project.exe
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\resources.pri
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\AppxManifest.xml
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Core\Final Project.exe
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Final Project.build.appxrecipe
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\System.Runtime.dll
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nyleb\Desktop\School\Software\Final Project\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\App.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\App.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ClubLeader.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ClubLeader.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ContactVerify.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ContactVerify.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Home.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Home.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\MainPage.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\SignUp.g.i.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\SignUp.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\App.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ClubLeader.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ContactVerify.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Home.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\MainPage.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\SignUp.xaml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\App.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Home.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Final Pr.B69720BE.Up2Date
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Final Project.exe
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\FxResources.Microsoft.Extensions.DependencyInjection.SR.resw
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\FxResources.Microsoft.Extensions.DependencyInjection.Abstractions.SR.resw
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\priconfig.xml
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\resources.resfiles
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\pri.resfiles
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\qualifiers.txt
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194604980000000.json
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316550480000000.json
+C:\Users\nyleb\Desktop\School\Software\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441635520000000.json
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\App.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Home.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Final Project.xr.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Final Project.exe
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\resources.pri
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\AppxManifest.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Core\Final Project.exe
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Final Project.build.appxrecipe
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\System.Runtime.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\App.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\App.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ClubLeader.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ClubLeader.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ContactVerify.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ContactVerify.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Home.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Home.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\MainPage.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\SignUp.g.i.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\SignUp.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\App.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ClubLeader.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ContactVerify.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Home.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\MainPage.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\SignUp.xaml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\App.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ClubLeader.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ContactVerify.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Home.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\MainPage.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\SignUp.xbf
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Final Pr.B69720BE.Up2Date
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Final Project.exe
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\Final Project.pdb
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\priconfig.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\resources.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\pri.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\qualifiers.txt
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194604980000000.json
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316550480000000.json
+C:\Users\nyleb\Desktop\School\School-Projects\Software Class\Final Project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441635520000000.json

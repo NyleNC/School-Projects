@@ -1,0 +1,48 @@
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\bin\Debug\Employee.dll
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\bin\Debug\Employee.pri
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.Up2Date
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\Employee.dll
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\priconfig.xml
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\priconfig.xml.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\unfiltered.layout.resfiles
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\filtered.layout.resfiles
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\excluded.layout.resfiles
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\resources.resfiles
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\resources.resfiles.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\pri.resfiles
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\pri.resfiles.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\qualifiers.txt
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nyleb\Desktop\PROG1224\Employee\Employee\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\bin\Debug\Employee.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\bin\Debug\Employee.pri
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\Employees.csproj.Up2Date
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\Employee.dll
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\priconfig.xml
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\priconfig.xml.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\unfiltered.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\filtered.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\excluded.layout.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\resources.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\resources.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\pri.resfiles
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\pri.resfiles.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\qualifiers.txt
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nyleb\Desktop\School\School-Projects\Object oriented\PROG1224\Employee\Employee\obj\Debug\MultipleQualifiersPerDimensionFound.txt
